@@ -19,7 +19,7 @@ $matrixCounter = new MatrixNeighboursCounter($matrixModel, $countNeighboursMoreT
 
 $matrixCounter->countNeighbours();
 
-print_r($matrixCounter->getZeroNeighbours())
+//print_r($matrixCounter->getZeroNeighbours())
 
 ?>
 
